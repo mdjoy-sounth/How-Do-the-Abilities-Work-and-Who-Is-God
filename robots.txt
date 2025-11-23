@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mdjoy-sounth.github.io/origin-of-world/sitemap.xml
